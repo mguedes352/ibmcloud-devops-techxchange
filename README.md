@@ -48,7 +48,7 @@ IBM Cloud DevOps na prática para o TechXchange: Step by Step
 
 ![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/f72db2c7-3ef2-44c0-abd8-9979649f7f2b)
 
-6. Deixe habilitado apenas a subnet em que foi atachado o Public Gateway, e desabilitar as demais subnets;
+6. Deixe habilitado apenas a subnet em que foi atachado o Public Gateway, e desabilite as demais subnets;
 
 ![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/ca75bec2-c7d1-4707-982b-e6e3a3b2dfb5)
 
