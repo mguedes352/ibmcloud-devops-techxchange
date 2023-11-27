@@ -29,3 +29,22 @@ IBM Cloud DevOps na prática para o TechXchange: Step by Step
 9. Por fim, clique em "Criar nuvem privada virtual".
 
 ![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/6582f46d-8e83-42ab-95d0-028bdaaa5178)
+
+
+### 2. Criação do Cluster IKS
+1. Clique no menu hambúrguer novamente;
+   
+2. Passe o mouse em cima do item "Kubernetes" e clique em "Clusters";
+
+![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/29f9cf02-0366-4e9f-baba-96860fc29678)
+
+3. Clique em "Criar Cluster"
+
+![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/a47e826f-f6b3-401b-b4a2-7572014eb385)
+
+4. Selecione Infraestrutura VPC;
+   
+5. Selecione a VPC que foi criada no passo anterior;
+
+![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/f72db2c7-3ef2-44c0-abd8-9979649f7f2b)
+
