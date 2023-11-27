@@ -32,7 +32,7 @@ IBM Cloud DevOps na prática para o TechXchange: Step by Step
 
 
 ### 2. Criação do Cluster IKS
-1. Clique no menu hambúrguer novamente;
+1. Clique no menu hambúrguer;
    
 2. Passe o mouse em cima do item "Kubernetes" e clique em "Clusters";
 
@@ -72,4 +72,21 @@ IBM Cloud DevOps na prática para o TechXchange: Step by Step
 
 ![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/34e8775d-02af-4583-a5c6-1e14a69dec41)
 
+### 3. Criação do namespace do Container Registry
+1. Clique no menu hambúrguer;
+   
+2. Passe o mouse em cima do item "Container Registry" e clique em "Namespaces";
 
+![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/7b019bd6-e6b7-4b85-8a48-d1e0eda0fdde)
+
+3. Clique em "Criar";
+
+![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/b4f2529a-aae2-48d2-b91c-247d9f7bffd3)
+
+4. Selecione o grupo de recursos (se houver);
+
+5. Defina um nome para o namespace;
+
+6. Clique em "Criar".
+
+![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/989cf15f-21dd-4742-937f-7dc97a6b9f39)
