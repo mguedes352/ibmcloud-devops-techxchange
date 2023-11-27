@@ -60,3 +60,16 @@ IBM Cloud DevOps na prática para o TechXchange: Step by Step
 
 ![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/a34ca60f-71db-4353-9a2f-7879e31cda71)
 
+10. Selecione o perfil com 2 vCPUs e 4GB RAM;
+
+11. Clique em "Salvar o tipo de conjunto de trabalhadores";
+
+![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/69b1c6ae-dda1-47af-bd81-59afebb29865)
+
+12. Defina um nome para o Cluster IKS e selecione o grupo de recursos (se houver);
+
+13. Por fim, clique em "Criar" para criar o cluster.
+
+![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/34e8775d-02af-4583-a5c6-1e14a69dec41)
+
+
