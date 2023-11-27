@@ -89,4 +89,5 @@ IBM Cloud DevOps na prática para o TechXchange: Step by Step
 
 6. Clique em "Criar".
 
-![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/989cf15f-21dd-4742-937f-7dc97a6b9f39)
+![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/6afadde8-e5d5-4c81-8100-5afd0a701ee4)
+
