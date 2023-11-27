@@ -2,18 +2,18 @@
 IBM Cloud DevOps na prática para o TechXchange: Step by Step
 
 ## 1. Criação da VPC (Virtual Private Cloud)
-1. Clicar no menu hambúrguer
+1. Clicar no menu hambúrguer;
 
-2. Passar o mouse em cima do item "Infraestrutura VPC" e clicar em "VPCs"
+2. Passar o mouse em cima do item "Infraestrutura VPC" e clicar em "VPCs";
 
 ![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/bb935046-7d66-4df5-a273-777fdfb24fdb)
 
-3. Clicar em "Criar"
+3. Clicar em "Criar";
 
-![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/2658551b-40d2-4854-9fdf-2e14341dda88)
+![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/e5d4467e-cc8d-4515-a43a-bd829f5960e5)
 
-4. Selecionar a América do sul e região de São Paulo
+4. Selecionar a América do sul e região de São Paulo;
 
-5. Definir um nome para a VPC
+5. Definir um nome para a VPC;
 
 ![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/950548b7-fcc8-447d-9af4-6a0d9aa3ab55)
