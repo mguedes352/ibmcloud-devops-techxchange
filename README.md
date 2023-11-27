@@ -48,3 +48,15 @@ IBM Cloud DevOps na prática para o TechXchange: Step by Step
 
 ![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/f72db2c7-3ef2-44c0-abd8-9979649f7f2b)
 
+6. Deixe habilitado apenas a subnet em que foi atachado o Public Gateway, e desabilitar as demais subnets;
+
+![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/ca75bec2-c7d1-4707-982b-e6e3a3b2dfb5)
+
+7. Defina um nome para o conjunto de workers;
+   
+8. Defina "1" na quantidade de worker por zona, garantindo que haja apenas 1 worker node no total;
+   
+9. Clique em "Mudar o tipo";
+
+![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/a34ca60f-71db-4353-9a2f-7879e31cda71)
+
