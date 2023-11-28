@@ -205,6 +205,6 @@ IBM Cloud DevOps na prática para o TechXchange: Step by Step
 
 ![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/80148b73-f82c-4b89-b5f8-6d18b7d612d1)
 
-14. Abra uma nova aba no navegador e cole a URL da aplicação e visualize a mudança feita na mensagem.
+14. Por fim, abra uma nova aba no navegador e cole a URL da aplicação e visualize a mudança feita na mensagem.
 
 ![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/91f1036a-c202-4181-8075-adb626a68bb9)
