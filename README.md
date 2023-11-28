@@ -91,3 +91,13 @@ IBM Cloud DevOps na prática para o TechXchange: Step by Step
 
 ![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/6afadde8-e5d5-4c81-8100-5afd0a701ee4)
 
+### 4. Criação da Toolchain
+1. Dentro do cluster IKS, clique em "DevOps" na barra lateral da esquerda;
+
+2. Em seguida clique em "Criar uma cadeia de ferramentas";
+
+![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/2c67bafe-39a3-415b-9ba7-35e680a81ce4)
+
+3. Clique no item "Desenvolva um app Kubernetes";
+
+![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/3b6d751e-28fa-4409-ad4a-1ff11b2e0c27)
