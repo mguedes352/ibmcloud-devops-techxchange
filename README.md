@@ -79,15 +79,17 @@ IBM Cloud DevOps na prática para o TechXchange: Step by Step
 
 ![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/7b019bd6-e6b7-4b85-8a48-d1e0eda0fdde)
 
-3. Clique em "Criar";
+3. Selecione a região de São Paulo;
+   
+4. Clique em "Criar";
 
-![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/b4f2529a-aae2-48d2-b91c-247d9f7bffd3)
+![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/bcd17861-2272-4392-a469-e9bdf62a1146)
 
-4. Selecione o grupo de recursos (se houver);
+5. Selecione o grupo de recursos (se houver);
 
-5. Defina um nome para o namespace;
+6. Defina um nome para o namespace;
 
-6. Clique em "Criar".
+7. Clique em "Criar".
 
 ![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/6afadde8-e5d5-4c81-8100-5afd0a701ee4)
 
@@ -113,4 +115,18 @@ IBM Cloud DevOps na prática para o TechXchange: Step by Step
 8. Clique em Delivery Pipeline;
 
 ![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/e227b983-5ae1-437f-a907-2866f3df3591)
+
+9. Defina um nome para a aplicação;
+
+10. Para criar uma chave de API da IBM Cloud, clique em "Novo";
+
+![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/cdf0147c-d03f-432f-b66a-924e2b229f82)
+
+11. Defina o nome para a sua API Key;
+
+12. Defina uma breve descrição (opcional);
+
+13. Clique em "OK" para criar;
+
+![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/15543763-2665-4f2f-8cef-a7cb5e6e9c2b)
 
