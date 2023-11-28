@@ -91,7 +91,7 @@ IBM Cloud DevOps na prática para o TechXchange: Step by Step
 
 7. Clique em "Criar".
 
-![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/6afadde8-e5d5-4c81-8100-5afd0a701ee4)
+![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/ff722a96-9d74-4a3f-877a-bacca73a2444)
 
 ### 4. Criação da Toolchain
 1. Dentro do cluster IKS, clique em "DevOps" na barra lateral da esquerda;
