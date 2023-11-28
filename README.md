@@ -130,3 +130,36 @@ IBM Cloud DevOps na prática para o TechXchange: Step by Step
 
 ![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/15543763-2665-4f2f-8cef-a7cb5e6e9c2b)
 
+14. Selecione a região do namespace do container registry criado (São Paulo);
+
+15. Insira ou selecione o nome do namespace do container registry criado anteriormente;
+
+16. Selecione o grupo de recursos (se houver);
+
+17. Escolha o cluster IKS criado e, por fim, clique em "Criar" ao final da página para finalizar a criação da pipeline;
+
+![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/68a2fbdf-88b7-4b60-82c2-f0d5921e41ed)
+
+18. Clique em "ci-pipeline";
+
+![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/c26b9cbc-ab83-419d-9ac1-8670aa4ed4c2)
+
+19. Clique em "manual-run";
+
+![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/233ff820-4c4e-4fdd-820d-aa9b570a3142)
+
+20. Clique no seu #1 manual-run;
+
+![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/f0d4782e-c7cd-4110-ab9d-7783ab58f168)
+
+21. Clique na etapa "deploy-to-kubernetes";
+
+22. Clique na aba de "Resultados";
+
+23. Copie a URL da aplicação;
+
+![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/ce3025b8-9039-4f4b-836a-09de826a7809)
+
+24. Por fim, abra uma aba em seu navegador e cole a URL para visualizar a aplicação.
+
+![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/3baf360a-3f64-4c47-8a28-ed95c8b98d3f)
