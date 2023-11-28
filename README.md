@@ -163,3 +163,30 @@ IBM Cloud DevOps na prática para o TechXchange: Step by Step
 24. Por fim, abra uma aba em seu navegador e cole a URL para visualizar a aplicação.
 
 ![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/3baf360a-3f64-4c47-8a28-ed95c8b98d3f)
+
+### 5. Executando um trigger automático
+1. Clique na etapa "extract-repository-url";
+
+2. Clique na aba de "Resultados";
+
+3. Copie a URL do repositório;
+
+![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/9519287c-6b1f-40f1-b699-fe8b7c5974e9)
+
+4. Abra uma nova aba no navegador e cole a URL do repositório;
+
+5. Clique no arquivo "util.js";
+
+![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/183d1323-729d-4363-8faa-0fcbc41bddef)
+
+6. Clique em "Edit";
+
+7. Clique em "Edit single file";
+
+![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/73ed5c21-d5ed-40af-8f07-967ff0387863)
+
+8. Faça uma pequena alteração no texto da variável "welcomeMessage";
+
+![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/31e89e9b-7c66-41e5-a7e3-0091ce4a71ec)
+
+
