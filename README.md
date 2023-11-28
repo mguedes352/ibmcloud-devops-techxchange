@@ -96,8 +96,21 @@ IBM Cloud DevOps na prática para o TechXchange: Step by Step
 
 2. Em seguida clique em "Criar uma cadeia de ferramentas";
 
-![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/2c67bafe-39a3-415b-9ba7-35e680a81ce4)
+![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/92036686-392a-4a93-a273-ef1659218ac6)
 
 3. Clique no item "Desenvolva um app Kubernetes";
 
 ![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/3b6d751e-28fa-4409-ad4a-1ff11b2e0c27)
+
+4. Defina um nome para a toolchain;
+
+5. Selecione a região de São Paulo;
+
+6. Selecione o grupo de recursos (se houver);
+
+7. Selecione o tipo de pipeline Tekton;
+
+8. Clique em Delivery Pipeline;
+
+![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/e227b983-5ae1-437f-a907-2866f3df3591)
+
