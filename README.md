@@ -185,8 +185,26 @@ IBM Cloud DevOps na prática para o TechXchange: Step by Step
 
 ![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/73ed5c21-d5ed-40af-8f07-967ff0387863)
 
-8. Faça uma pequena alteração no texto da variável "welcomeMessage";
+8. Faça uma pequena alteração no texto da variável "welcomeMessage", desça a tela e dê um "Commit changes";
 
 ![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/31e89e9b-7c66-41e5-a7e3-0091ce4a71ec)
 
+9. Volte na "ci-pipeline" e visualize o "commit-push";
 
+![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/1a913434-a674-4419-85f1-f986ad52067d)
+
+10. Clique no seu commit push;
+
+![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/e92d20ae-9fe0-4b06-81f1-081dec446224)
+
+11. Clique na etapa "deploy-to-kubernetes";
+
+12. Clique na aba de "Resultados";
+
+13. Copie a URL da aplicação;
+
+![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/80148b73-f82c-4b89-b5f8-6d18b7d612d1)
+
+14. Abra uma nova aba no navegador e cole a URL da aplicação e visualize a mudança feita na mensagem.
+
+![image](https://github.com/mguedes352/ibmcloud-devops-techxchange/assets/79527238/91f1036a-c202-4181-8075-adb626a68bb9)
